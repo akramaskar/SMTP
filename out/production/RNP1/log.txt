@@ -1,0 +1,24 @@
+Nov. 01, 2018 10:46:28 VORM. MailFile sendToServer
+INFO: CLIENT: EHLO example.client.de
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-mailgate.informatik.haw-hamburg.de
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-PIPELINING
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-SIZE 26214400
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-ETRN
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-AUTH PLAIN LOGIN
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-AUTH=PLAIN LOGIN
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-ENHANCEDSTATUSCODES
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250-8BITMIME
+Nov. 01, 2018 10:46:28 VORM. MailFile printServerMessage
+INFO: SERVER: 250 DSN
+Nov. 01, 2018 10:46:28 VORM. MailFile sendToServer
+INFO: CLIENT: AUTH PLAIN AGFjaDQ0NABkYXNkYXM=
+Nov. 01, 2018 10:46:34 VORM. MailFile printServerMessage
+INFO: SERVER: 535 5.7.8 Error: authentication failed: authentication failure
